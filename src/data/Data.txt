@@ -1,0 +1,4 @@
+Data collection
+
+Data is extracted via news API.
+API Reference Link: https://newsapi.org/s/japan-news-api
